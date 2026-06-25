@@ -1,0 +1,9 @@
+teachers={
+"Aaliya":["Python","AI","Theory"],
+"Riya":["DBMS","Theory"],
+"Sneha":["ML","Theory"],
+"Rahul":["Flutter","Lab"],
+"Priya":["DS","Theory"]
+}
+days=["Monday","Tuesday","Wednesday","Thursday","Friday"]
+periods=["10-11","11-12","12-1","2-3","3-4"]
